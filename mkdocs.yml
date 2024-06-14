@@ -1,0 +1,11 @@
+site_name: "s3-deleme-test1234"
+site_description: 
+
+nav:
+  - Introduction: index.md
+  - Subpage: sub-page.md
+  - 'Code Sample': code/code-sample.md
+
+
+plugins:
+  - techdocs-core

@@ -1,0 +1,1 @@
+console.log('Hey!! s3-deleme-test1234 instance is getting created. ');
